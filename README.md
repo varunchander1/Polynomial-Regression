@@ -3,7 +3,7 @@
 **Predicting daily bike-rental demand from weather, comparing simple, multiple and polynomial regression with full residual diagnostics.**
 
 
-📄 **[Read the full project report (PDF)](https://github.com/varunchander1/bike-sharing-demand-regression/raw/main/Bike_Sharing_Demand_Regression_Report.pdf)**
+📄 **[Read the full project report (PDF)](https://github.com/varunchander1/Polynomial-Regression/blob/main/Bike_Sharing_Demand_Regression_Report.pdf)**
 
 ---
 
