@@ -2,7 +2,6 @@
 
 **Predicting daily bike-rental demand from weather, comparing simple, multiple and polynomial regression with full residual diagnostics.**
 
-Part of the *AI & ML for Industry* programme, IIT Delhi (Module 2: Regression).
 
 📄 **[Read the full project report (PDF)](https://github.com/varunchander1/bike-sharing-demand-regression/raw/main/Bike_Sharing_Demand_Regression_Report.pdf)**
 
