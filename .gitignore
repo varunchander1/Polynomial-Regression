@@ -1,0 +1,21 @@
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+.env
+
+# Course materials (not my work)
+*Project_Problem.pdf
+Project Submission Guidlines.docx
+
+# Duplicate zipped reports
+*.zip
+
+# Data: keep day.csv, skip duplicates and the hourly file
+hour.csv
+bike+sharing+dataset/
+
+# Original report (replaced by the web-optimised copy)
+M2_Project_Report.pdf
